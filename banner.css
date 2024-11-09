@@ -1,0 +1,42 @@
+.banner {
+    background: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+    color: white;
+    text-align: center;
+    padding: 2.5em 2em;
+}
+
+.banner_titulo {
+    font-family: "poppins", sans-serif;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 18px;
+
+}
+
+.banner_texto {
+    font-family: "poppins", sans-serif;
+    font-weight: 400;
+    font-style: medium;
+    font-size: 18px;
+}
+
+.banner_pesquisa{
+    border-radius: 24px;
+    border: 1px solid white;
+    background-color: transparent;
+    padding: 1em;
+    color: white;
+    width: 100%;
+    margin-top: 5%;
+}
+
+.banner_pesquisa::placeholder{
+    color: white;
+    font-family: "poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    background: url(Pesquisa.svg);
+    background-repeat: no-repeat;
+   background-position: 0.5em;
+}

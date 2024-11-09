@@ -1,0 +1,21 @@
+.carrossel_titulo{
+    font-family: "poppins" , sans-serif;
+    font-size: 18px;
+    color: #EB9B00 ;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 1em 0 0.5em 0;
+}
+
+.swiper-slide img{
+    width: 100%;
+
+}
+
+.swiper-pagination {
+    position: initial;
+  
+}
+
+
